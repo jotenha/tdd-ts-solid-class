@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true, //maybe not?
+        "outDir": "./dist",
+        "module": "commonjs",
+        "target": "ES2022",
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowJs": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
